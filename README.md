@@ -1,2 +1,18 @@
-# tavern-lampiris-thassos
-Website project for Tavern Lampiris, Theologos Thassos
+# Ταβέρνα Λαμπίρης
+
+## Στ. Επ.
+- Διεύθυνση: Θεολόγος, Θάσος, Ελλάδα
+- Τηλέφωνο: 25930 31230
+- Email: info@taverna-lambiris.g
+
+## Γιατί χρειάζεται το site
+Παραδοσιακή ταυτότητα σε δημοφιλή τουριστικό νησί. Ένα site μπορεί να παρουσιάσει κουζίνα, ιστορία, τοποθεσία και στοιχεία επικοινωνίας σε Έλληνες και ξένους επισκέπτες.
+
+## Website quality
+Limited online presence; no strong dedicated site found
+
+## Lead score
+88/100
+
+## Τιμή site
+€250 (εφάπαξ)
